@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Decompile</string>
+    <string name="start_game">Start Game</string>
+    <string name="id">ID</string>
+    <string name="down_button_description">Button to move down</string>
+    <string name="up_button_description">Button to move up</string>
+    <string name="left_button_description">Button to move left</string>
+    <string name="right_button_description">Button to move right</string>
+</resources>
